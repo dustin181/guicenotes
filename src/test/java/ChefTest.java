@@ -1,6 +1,5 @@
 import chef.Chef;
 import org.junit.Test;
-import chef.services.FortuneServiceMock;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 

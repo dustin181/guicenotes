@@ -1,4 +1,4 @@
-package chef.services;
+import chef.services.FortuneService;
 
 public class FortuneServiceMock implements FortuneService {
     private int invocationCount;
